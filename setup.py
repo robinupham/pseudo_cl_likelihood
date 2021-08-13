@@ -6,5 +6,5 @@ setup(name='pseudo_cl_likelihood',
       author='Robin Upham',
       url='https://github.com/robinupham/pseudo_cl_likelihood',
       packages=['pseudo_cl_likelihood'],
-      package_dir = {'': '.'}
-      install_requires=['numpy', 'healpy', 'pyshtools'],)
+      package_dir = {'': '.'},
+      install_requires=['numpy', 'healpy', 'pyshtools'])
